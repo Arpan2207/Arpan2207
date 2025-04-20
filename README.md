@@ -1,50 +1,49 @@
-👋 Hi, I'm Arpan Savani
+# Hi, I'm Arpan Savani! 👋
 
-🌁 San Francisco, CA | Computer Science Student @ SFSU
+I'm a **Computer Science Student** at **San Francisco State University**, passionate about software development, AI, and creating impactful technology.
 
-🚀 About Me
+---
 
-I'm a passionate developer focused on building impactful projects in web development, AI integration, and software engineering. I thrive in collaborative environments, solving challenging problems, and continuously learning new technologies.
+## 🔧 Technologies & Tools
 
-🛠️ Tech Stack
+```javascript
+const techStack = {
+  languages: ["Java", "C++", "JavaScript", "Python", "HTML", "CSS", "TypeScript"],
+  frameworks: ["React", "Node.js", "Express"],
+  databases: ["MongoDB", "MySQL"],
+  cloudPlatforms: ["AWS", "Google Cloud Platform"],
+  tools: ["Git", "JSON", "REST APIs"]
+};
+```
 
-Languages: Java, C++, JavaScript, Python, HTML, CSS, TypeScript
+---
 
-Frameworks & Tools: React, Node.js, Express, MongoDB, MySQL
+## 🚀 Notable Projects
 
-Cloud & DevOps: AWS, Google Cloud Platform (GCP)
+### [RentSpiracy](https://devpost.com/software/rentspiracy)
+- **Description**: Multilingual platform detecting scams in lease agreements, providing owner background reports.
+- **Stack**: React, Python, Gemini API, Google Cloud Vision API, MongoDB
 
-Other: Git, JSON, REST APIs
+### [Cache Manager](https://github.com/Arpan2207/CacheManager)
+- **Description**: Efficient Cache Management system using Hash Tables, Doubly Linked Lists, and BSTs.
+- **Stack**: C++, JSON
 
-🎖️ Awards & Achievements
+### [Soul of San Franc](https://devpost.com/software/soul-of-san-franc)
+- **Description**: AI-powered social matching and event planning web app.
+- **Stack**: MERN, TypeScript, Fireworks AI, MongoDB, Verbwire
 
-🏆 Winner of "SF Hacks" Hackathon (Best Use of AI API): Developed "Soul of San Fran," an app leveraging AI and social media data for community building and event planning.
+---
 
-💡 Highlighted Projects
+## 🏅 Achievements
+- 🥇 Winner, "SF Hacks" Hackathon (Best Use of AI API)
 
-🔍 RentSpiracy
+---
 
-Overview: Multilingual scam detection platform that identifies red flags in lease agreements and provides lease owner background checks.
+## 📫 How to Reach Me
 
-Tech Used: React, Python, Gemini API, Google Cloud Vision API, MongoDB
+- **LinkedIn**: [arpan-savani](https://linkedin.com/in/arpan-savani)
+- **Email**: [arpan22savani@outlook.com](mailto:arpan22savani@outlook.com)
 
-🗃️ Cache Manager
+---
 
-Overview: C++ project optimizing cache management using Hash Table, FIFO Doubly Linked List, and Binary Search Tree.
-
-Tech Used: C++, JSON
-
-🌉 Soul of San Franc
-
-Overview: AI-powered app matching users based on social interests and managing event planning efficiently.
-
-Tech Used: MERN Stack, TypeScript, Fireworks AI, MongoDB, Verbwire
-
-📫 Connect with Me
-
-LinkedIn
-
-Email
-
-Feel free to explore my repositories, and let's collaborate to build something amazing!
-
+Happy Coding! 🚀
