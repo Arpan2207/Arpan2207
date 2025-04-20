@@ -27,10 +27,6 @@ I'm a passionate developer focused on building impactful projects in web develop
 
 ## 💡 Highlighted Projects
 
-//### 🔍 [RentSpiracy](https://devpost.com/software/rentspiracy)
-//- **Overview**: Multilingual scam detection platform that identifies red flags in lease agreements and provides lease owner background checks.
-//- **Tech Used**: React, Python, Gemini API, Google Cloud Vision API, MongoDB
-
 ### 🗃️ [Cache Manager](https://github.com/Arpan2207/CacheManager)
 - **Overview**: C++ project optimizing cache management using Hash Table, FIFO Doubly Linked List, and Binary Search Tree.
 - **Tech Used**: C++, JSON
