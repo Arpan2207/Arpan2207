@@ -12,10 +12,9 @@ I'm a passionate developer focused on building impactful projects in web develop
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, C++, JavaScript, Python, HTML, CSS, TypeScript
-- **Frameworks & Tools**: React, Node.js, Express, MongoDB, MySQL
-- **Cloud & DevOps**: AWS, Google Cloud Platform (GCP)
-- **Other**: Git, JSON, REST APIs
+- **Programming Languages & Databases:     Java, C++, Python, HTML, CSS, JavaScript, MySQL, MongoDB.
+- **Frameworks & Libraries:                NodeJS, React, Spring boot.
+- **Personal Skills:                       Problem Solving, Team Collaboration, Analytical Thinking 
 
 ---
 
