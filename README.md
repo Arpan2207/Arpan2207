@@ -12,9 +12,9 @@ I'm a passionate developer focused on building impactful projects in web develop
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages & Databases:     Java, C++, Python, HTML, CSS, JavaScript, MySQL, MongoDB.
-- **Frameworks & Libraries:                NodeJS, React, Spring boot.
-- **Personal Skills:                       Problem Solving, Team Collaboration, Analytical Thinking 
+- **Programming Languages & Databases:**     Java, C++, Python, HTML, CSS, JavaScript, MySQL, MongoDB.
+- **Frameworks & Libraries:**                NodeJS, React, Spring boot.
+- **Personal Skills:**                       Problem Solving, Team Collaboration, Analytical Thinking 
 
 ---
 
