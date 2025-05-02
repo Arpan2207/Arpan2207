@@ -1,42 +1,34 @@
-# 👋 Hi, I'm Arpan Savani
+## 👋 Hi, I'm Arpan
 
-🌁 **San Francisco, CA | Computer Science Student @ SFSU**
+- 📍***San Francisco, CA.***
+- *CS @ SF State University*
 
----
 
-## 🚀 About Me
 
-I'm a passionate developer focused on building impactful projects in web development, AI integration, and software engineering. I thrive in collaborative environments, solving challenging problems, and continuously learning new technologies.
+### 🛠️ Tech Stack
 
----
-
-## 🛠️ Tech Stack
-
-- **Programming Languages & Databases:**     Java, C++, Python, HTML, CSS, JavaScript, MySQL, MongoDB.
-- **Frameworks & Libraries:**                NodeJS, React, Spring boot.
-- **Personal Skills:**                       Problem Solving, Team Collaboration, Analytical Thinking 
+- **Programming Languages & Databases:**     *Java, C++, Python, HTML, CSS, JavaScript, MySQL, MongoDB.*
+- **Frameworks & Libraries:**                *NodeJS, React, Spring boot.*
+- **Personal Skills:**                       *Team Collaboration, Analytical Thinking*
 
 ---
 
-## 🎖️ Awards & Achievements
+### 🎖️ Awards & Achievements
 
 - 🏆 **Winner of "SF Hacks" Hackathon (Best Use of AI API)**: Developed "Soul of San Fran," an app leveraging AI and social media data for community building and event planning.
 
 ---
 
-## 💡 Highlighted Projects
-
-### 🗃️ [Cache Manager](https://github.com/Arpan2207/CacheManager)
-- **Overview**: C++ project optimizing cache management using Hash Table, FIFO Doubly Linked List, and Binary Search Tree.
-- **Tech Used**: C++, JSON
-
-### 🌉 [Soul of San Franc](https://devpost.com/software/soul-of-san-franc)
-- **Overview**: AI-powered app matching users based on social interests and managing event planning efficiently.
-- **Tech Used**: MERN Stack, TypeScript, Fireworks AI, MongoDB, Verbwire
-
----
-
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/arpan-savani-0923b8292/)
 - [Email](mailto:arpan22savani@outlook.com)
+
+---
+
+<br/>
+
+<p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan2207&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt=Arpan/>
+<img align="center" height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Arpan2207&theme=github_dark&hide_border=false" alt="Arpan" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
